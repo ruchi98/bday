@@ -8,8 +8,13 @@ position: absolute;
   min-width: 100%;
   max-width: 100%;
 }
+.jumbotron{
+
+  color:#7A9D96;
 
 }
+.h1{
+color: #7A9D96}
 div.container{
   background-color:  #CAE4DB;
 }
